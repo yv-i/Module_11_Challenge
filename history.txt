@@ -1,0 +1,60 @@
+  466  git push
+  467  cd ..
+  468  ls
+  469  cd ..
+  470  ls
+  471  cd ..
+  472  ls
+  473  cd Modules/
+  474  ls
+  475  mkdir 11Module
+  476  touch what_you_will_learn.txt
+  477  open what_you_will_learn.txt 
+  478  pwd
+  479  cd ..
+  480  ls
+  481  cd UCB-VIRT-FIN-PT-03-2023-U-B/
+  482  cd 10-Unsupervised-Learning/
+  483  code .
+  484  cd Downloads/
+  485  ls | grep Activities
+  486  ls | grep Activities | mv ~/Desktop
+  487  ls | grep Activities > mv ~/Desktop
+  488  ls | grep Activities
+  489  mv Class_1_Activities.zip /Users/jknight/Dropbox/Python/Modules
+  490  mv Class_2_Activities.zip /Users/jknight/Dropbox/Python/Modules
+  491  cd /Users/jknight/Dropbox/Python/Modules
+  492  ls
+  493  mv *.zip 11Module/
+  494  cd 11Module/
+  495  ls
+  496  open *.zip
+  497  mv *.zip ~/.Trash
+  498  ls
+  499  open Class_1_Activities/
+  500  l
+  501  cd /Users/jknight/Dropbox/Python/UCB-VIRT-FIN-PT-03-2023-U-B/11-Time-Series-Analysis 
+  502  code .
+  503  ls
+  504  cd Module_11_Challenge/
+  505  ls
+  506  git status
+  507  git add .
+  508  git status
+  509  git commit -m 'added function so i don't have to keep typing display head/tail commands --- stopped at step 3, step 2'
+
+exit()
+  510  git commit -m 'added function so i don't have to keep typing display head/tail commands --- stopped at step 3, step 2'
+enter
+
+
+
+
+
+
+  511  git commit -m 'added function so i don't have to keep typing display head/tail commands --- stopped at step 3, step 2'
+'
+  512  git commit -m 'added function so i dont have to keep typing display head/tail commands --- stopped at step 3, step 2'
+  513  git status
+  514  git push
+  515  history 50 > history.txt
