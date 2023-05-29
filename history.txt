@@ -58,3 +58,53 @@ enter
   513  git status
   514  git push
   515  history 50 > history.txt
+  487  ls | grep Activities > mv ~/Desktop
+  488  ls | grep Activities
+  489  mv Class_1_Activities.zip /Users/jknight/Dropbox/Python/Modules
+  490  mv Class_2_Activities.zip /Users/jknight/Dropbox/Python/Modules
+  491  cd /Users/jknight/Dropbox/Python/Modules
+  492  ls
+  493  mv *.zip 11Module/
+  494  cd 11Module/
+  495  ls
+  496  open *.zip
+  497  mv *.zip ~/.Trash
+  498  ls
+  499  open Class_1_Activities/
+  500  l
+  501  cd
+  502  cd Desktop/
+  503  ls
+  504  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-03-2023-U-B.git
+  505  cd 
+  506  cd Dropbox/
+  507  cd Python/
+  508  cd UCB-VIRT-FIN-PT-03-2023-U-B/
+  509  cd 11-Time-Series-Analysis/
+  510  code .
+  511  conda activate dev
+  512  touch foo.py
+  513  code foo.py 
+  514  mv foo.py ~/.Trash/
+  515  ls
+  516  code .
+  517  ls
+  518  cd Module_11_Challenge/
+  519  ls
+  520  git add .
+  521  git status
+  522  git status
+  523  git add .
+  524  git status
+  525  ls
+  526  code forecasting_net_prophet.ipynb 
+  527  git add .
+  528  git status
+  529  git commit -m 'weirdly collab does not save to original file after session time out --- lots of changes have been made --- starting prophet section'
+  530  git push
+  531  git add .
+  532  git status
+  533  git commit -m 'at optional section'
+  534  git push
+  535  ls
+  536  history 50 >> history.txt
